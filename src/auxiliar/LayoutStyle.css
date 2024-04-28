@@ -1,0 +1,12 @@
+nav {
+  border: grey solid;
+  padding: 0.3em;
+}
+.buttonsHeader {
+  display: inline;
+  margin: 0.5em;
+  width: 5em;
+  background-color: rgb(219, 219, 219);
+  padding: 0.2em;
+  border-radius: 0.5em;
+}
